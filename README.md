@@ -1,2 +1,2 @@
-# BrainiFi
-A clone of Learning Website - BrainiFi 
+# Learnova
+A clone of Learning Website - Learnova 
